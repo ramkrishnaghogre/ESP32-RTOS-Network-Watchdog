@@ -1,0 +1,17 @@
+# --- PlatformIO ---
+.pio/
+.vscode/
+*.bin
+*.elf
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
